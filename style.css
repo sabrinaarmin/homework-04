@@ -1,0 +1,29 @@
+#mycanvas {
+  width: 200px;
+  height: 50px;
+  border: 1px solid blue;
+}
+.myvideo{
+  height: 200px;
+}
+.div1{
+  background-color: rgb(244, 173, 229);
+  width: 80%;
+  height: auto;
+  text-align: center;
+  margin-left: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px 20px;
+}
+p{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+.list{
+  text-align: left;
+}
+.div2{
+  background-color: aquamarine;
+  height: auto;
+  width: 90%;
+  margin: 30px 30px;
+  padding: 30px 30px;
+}
